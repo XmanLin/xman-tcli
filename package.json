@@ -1,0 +1,29 @@
+{
+  "name": "xman-tcli",
+  "version": "1.0.0",
+  "description": "web-cli工具，可以快速创建Code template",
+  "bin": {
+    "xmant": "bin/xmant.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XmanLin/xman-tcli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "xmanlin",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clui": "^0.3.6",
+    "commander": "^8.2.0",
+    "figlet": "^1.5.2",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.1.5",
+    "update-notifier": "^5.1.0"
+  }
+}
