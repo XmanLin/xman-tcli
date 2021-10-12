@@ -1,6 +1,6 @@
 {
   "name": "xman-tcli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "web-cli工具，可以快速创建Code template",
   "bin": {
     "xmant": "bin/xmant.js"
