@@ -6,7 +6,7 @@ web-cli工具，可以快速创建template
 ### 安装
 
 ```
-npm install xmant-cli -g
+npm install xman-tcli -g
 ```
 
 #### 功能说明
